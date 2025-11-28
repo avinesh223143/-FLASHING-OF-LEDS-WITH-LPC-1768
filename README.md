@@ -32,14 +32,14 @@ Command: fromelf --bin projectname.axf --output filename.bin
 ⮚	in c/c++ → include paths → desktop (00-libfiles).
 ⮚	.Bin file is generated after a rebuild.
 ⮚	Check the project folder for the generated .Bin file.
+```
 
-# ADD FILES:
+## ADD FILES:
 Target1:
 Source group1:
 Startuplpc17xx.s, main.c (t), delay.c (t), systemlpc17xx.c (t), gpio.c (t)
 Header:
 Delay.h, stdutils.h, gpioi.h
-```
 
 # PIN DIAGRAM :
  
